@@ -2,17 +2,6 @@
 
 ### 👨🏽‍💻 Check out my portfolio site at [alexmalos.dev](https://alexmalos.dev/)
 
-A little about me: 
-- I am full stack software engineer 😎
-- I’m currently learning Python 🌱 
-- I created three projects you can view below :arrow_down:
-- You can find me cooking, snowboarding, playing volleyball or watching anime in my free time 🥰
-
-### ⚙️ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=nord" alt="alexmalos" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=nord" alt="alexmalos" />
-
 ### Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,3 +30,8 @@ A little about me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malosalexander@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-malos/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/alexander-malos)
+
+### ⚙️ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=nord" alt="alexmalos" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=nord" alt="alexmalos" />
