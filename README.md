@@ -2,7 +2,7 @@
 
 ### 👨🏽‍💻 Check out my portfolio site at [alexmalos.dev](https://alexmalos.dev/)
 
-### Technologies
+### ⚙️ Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-malos/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/alexander-malos)
 
-### ⚙️ GitHub Stats
+### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=nord" alt="alexmalos" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=nord" alt="alexmalos" />
