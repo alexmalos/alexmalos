@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=81A1C0&vCenter=true&width=435&lines=Hey%2C++I'm+Alex+Malos;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=C9D1D9&vCenter=true&width=435&lines=Hey%2C++I'm+Alex+Malos;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ### 👨🏽‍💻 Check out my portfolio site at [alexmalos.dev](https://alexmalos.dev/)
 
@@ -33,5 +33,5 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=nord" alt="alexmalos" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=nord" alt="alexmalos" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=dark" alt="alexmalos" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexmalos" />
