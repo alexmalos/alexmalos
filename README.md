@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=81A1C0&vCenter=true&width=435&lines=Hey%2C++I'm+Alex+Malos;Full+Stack+Sofware+Engineer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=81A1C0&vCenter=true&width=435&lines=Hey%2C++I'm+Alex+Malos;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ### 👨🏽‍💻 Check out my portfolio site at [alexmalos.dev](https://alexmalos.dev/)
 
