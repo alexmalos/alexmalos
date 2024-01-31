@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=C9D1D9&vCenter=true&width=435&lines=Hey%2C++I'm+Alex+Malos;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-### 👨🏽‍💻 Check out my portfolio site at [alexmalos.dev](https://alexmalos.dev/)
-
 ### ⚙️ Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,14 +22,5 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 📧 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malosalexander@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-malos/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/alexander-malos)
-
-### 📊 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=alexmalos&show_icons=true&locale=en&theme=dark" alt="alexmalos" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmalos&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexmalos" />
